@@ -3,7 +3,7 @@
    <h3 align="center">¡Que tal 👋! Soy Yeison Arango 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> <br />¡Dale una vuelta al perfil 👇!</p>
+<p align="center"><strong>Desarrollador JavaScript Full Stack</strong> <br />¡Dale una vuelta al perfil 👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/yarango/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yarangodev" height="28px" width="28px" />
